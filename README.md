@@ -4,7 +4,7 @@
 > using Markov chain analysis.
 
 
-**Course:** Computer Simulation and Modeling| **Date:** May 2024
+**Course:** Computer Simulation and Modeling | **Date:** May 2024
 **Authors:** Rasheed Albel, Val Elagonde, Franz Layug, Christian Paraan
 
 ---
